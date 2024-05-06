@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kimse\\housekeeping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\map\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\map\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\map\\objectscailng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\objectscailng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|c:\\users\\kimse\\housekeeping\\assets\\map\\nodepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\nodepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\map\\mapmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\mapmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scenechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\ingame\\travellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\ingame\\travellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\ingame\\battlelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\ingame\\battlelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\ingame\\unitstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\ingame\\unitstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\map\\mapscenectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\mapscenectr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|C:\\Users\\kimse\\housekeeping\\assets\\map\\cammove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7972C8-2CAE-5E3C-8770-56728116E3B6}|Assembly-CSharp.csproj|solutionrelative:assets\\map\\cammove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mapManage.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\MapManage.cs",
+              "RelativeDocumentMoniker": "Assets\\Map\\MapManage.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\MapManage.cs",
+              "RelativeToolTip": "Assets\\Map\\MapManage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:33:26.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mapGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\mapGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Map\\mapGenerator.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\mapGenerator.cs",
+              "RelativeToolTip": "Assets\\Map\\mapGenerator.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAuwCYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:47:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sceneChange.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\sceneChange.cs",
+              "RelativeDocumentMoniker": "Assets\\sceneChange.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\sceneChange.cs",
+              "RelativeToolTip": "Assets\\sceneChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T10:52:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "unitStatus.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Ingame\\unitStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Ingame\\unitStatus.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Ingame\\unitStatus.cs",
+              "RelativeToolTip": "Assets\\Ingame\\unitStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:49:26.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\Map.cs",
+              "RelativeDocumentMoniker": "Assets\\Map\\Map.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\Map.cs",
+              "RelativeToolTip": "Assets\\Map\\Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T08:00:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectScailng.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\ObjectScailng.cs",
+              "RelativeDocumentMoniker": "Assets\\Map\\ObjectScailng.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\ObjectScailng.cs",
+              "RelativeToolTip": "Assets\\Map\\ObjectScailng.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:09:20.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nodePoint.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\nodePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Map\\nodePoint.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\nodePoint.cs",
+              "RelativeToolTip": "Assets\\Map\\nodePoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:16:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "travelLogic.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Ingame\\travelLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Ingame\\travelLogic.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Ingame\\travelLogic.cs",
+              "RelativeToolTip": "Assets\\Ingame\\travelLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:03:35.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "battleLogic.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Ingame\\battleLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Ingame\\battleLogic.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Ingame\\battleLogic.cs",
+              "RelativeToolTip": "Assets\\Ingame\\battleLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:24:25.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mapSceneCtr.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\mapSceneCtr.cs",
+              "RelativeDocumentMoniker": "Assets\\Map\\mapSceneCtr.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\mapSceneCtr.cs",
+              "RelativeToolTip": "Assets\\Map\\mapSceneCtr.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:52:11.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "camMove.cs",
+              "DocumentMoniker": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\camMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Map\\camMove.cs",
+              "ToolTip": "C:\\Users\\kimse\\housekeeping\\Assets\\Map\\camMove.cs",
+              "RelativeToolTip": "Assets\\Map\\camMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:10:39.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
