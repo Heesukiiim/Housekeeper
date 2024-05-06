@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 100
+  controlID: 127
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 605
     height: 1307
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -120,8 +120,8 @@ MonoBehaviour:
     y: 774
     width: 1955
     height: 533
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -357,7 +357,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Map
+    - Assets/Resources/ingameRes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -365,16 +365,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Map
+  - Assets/Resources/ingameRes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\kimse\housekeeping
+  m_LastProjectPath: C:\Users\kimse\Housekeeper\housekeeping
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 645a0000
     m_LastClickedID: 23140
-    m_ExpandedIDs: 00000000485a00004a5a00004c5a00004e5a0000505a0000525a0000665a000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000485a00004a5a00004c5a00004e5a0000505a0000525a0000545a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -402,7 +402,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000485a00004a5a00004c5a00004e5a0000505a0000525a0000
+    m_ExpandedIDs: 00000000485a00004a5a00004c5a00004e5a0000505a0000525a0000545a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -427,9 +427,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 10580000
-    m_LastClickedInstanceID: 22544
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000ee5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -446,7 +446,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -498,7 +498,7 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 22544
+  m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
@@ -542,9 +542,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 10580000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2cfbffffb6590000
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -948,7 +948,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.1837534, y: -0.010330912, z: 0.0019122985, w: 0.98293734}
     speed: 2
-    m_Value: {x: 0.18374959, y: -0.0103306975, z: 0.0019122588, w: 0.98291695}
+    m_Value: {x: -0.1837534, y: 0.010330912, z: -0.0019122986, w: -0.9829374}
   m_Size:
     m_Target: 1407.9194
     speed: 2
